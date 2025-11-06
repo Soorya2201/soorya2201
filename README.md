@@ -45,7 +45,7 @@ I’m actively looking for roles in:
 - PyTorch, TensorFlow, CUDA  
 - CNNs, Transformers, GANs, Metric Learning  
 
-### 📊 Core ML & Data
+### 📊 Core Data & ML 
 - Python, NumPy, Pandas, Scikit-learn, LightGBM  
 - Apache Spark, Statistical Modelling, MLOps basics  
 
@@ -139,7 +139,7 @@ Combined **Black-Litterman** portfolio optimization with **NLP-based sentiment**
 - 🥇 Awards & certifications in **Data Analytics & Data Science**  
 - ✅ Multiple deployed projects with **87%+ accuracy** in real-world settings  
 
-🔗 [View All Certifications](https://YOUR_CERTIFICATIONS_LINK)
+🔗 [View All Certifications](https://inkedsin.wordpress.com/soorya-narayanan-v)
 
 ---
 
@@ -149,6 +149,6 @@ I’m driven by curiosity, obsessed with **debuggable ML**, and love collaborati
 
 - 📧 **Email:** [soorya220104@gmail.com](mailto:soorya220104@gmail.com)  
 - 🔗 **LinkedIn:** [Soorya Venkat](https://www.linkedin.com/in/soorya-venkat)  
-- 🐙 **GitHub:** [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- 🐙 **GitHub:** [YOUR_GITHUB_USERNAME](https://github.com/soorya2201)
 
 > ⚡ “Give me a hard problem and I’ll stay with it until we have a solution we’re proud to ship.”
