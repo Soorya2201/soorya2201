@@ -3,19 +3,20 @@
   <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/raw/main/assets/ai-banner.gif" alt="AI & Data Science Banner" width="100%" />
 </p>
 
-<h1 align="center">🧠 Soorya Narayanan V</h1>
-<h3 align="center">AI & Data Science Specialist | Multimodal LLMs • Computer Vision • Predictive Modeling</h3>
+<h1 align="center"> Soorya Narayanan V ☀️</h1>
+<h3 align="center">AI & Data Science Enthusiast | Machine Learning • Computer Vision • Agents</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/soorya-venkat"><img src="https://img.shields.io/badge/LinkedIn-Soorya%20Venkat-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:soorya220104@gmail.com"><img src="https://img.shields.io/badge/Email-Soorya-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=githubpages" /></a>
-  <a href="https://YOUR_CERTIFICATIONS_LINK"><img src="https://img.shields.io/badge/Certifications-View-green?style=for-the-badge&logo=google" /></a>
+  <a href="https://inkedsin.wordpress.com/soorya-narayanan-v<img width="468" height="26" alt="image" src="https://github.com/user-attachments/assets/273cd25d-c1a2-4007-aa62-be28d3c0c0a6" />
+"><img src="https://img.shields.io/badge/Certifications-View-green?style=for-the-badge&logo=google" /></a>
 </p>
 
 ---
 
-## 🚀 The Soorya Vision: From Research to Real-World Impact
+##  The Soorya Vision: From Research to Real-World Impact
 
 I’m a Master’s student at the **University of Southern California (USC)** specializing in:
 
