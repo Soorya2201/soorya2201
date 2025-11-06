@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/soorya-venkat"><img src="https://img.shields.io/badge/LinkedIn-Soorya%20Venkat-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:soorya220104@gmail.com"><img src="https://img.shields.io/badge/Email-Soorya-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=githubpages" /></a>
-  <a href="https://inkedsin.wordpress.com/soorya-narayanan-v<img width="468" height="26" alt="image" src="https://github.com/user-attachments/assets/273cd25d-c1a2-4007-aa62-be28d3c0c0a6"/>"><img src="https://img.shields.io/badge/Certifications-View-green?style=for-the-badge&logo=google" /></a>
+  <a href="https://inkedsin.wordpress.com/soorya-narayanan-v<img width="468" height="26" alt="image" src="https://github.com/user-attachments/assets/273cd25d-c1a2-4007-aa62-be28d3c0c0a6"><img src="https://img.shields.io/badge/Certifications-View-green?style=for-the-badge&logo=google" /></a>
 </p>
 
 ---
