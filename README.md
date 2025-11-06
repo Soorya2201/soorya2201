@@ -29,6 +29,11 @@ I love taking **research-grade ideas** and pushing them all the way to **product
 I’m actively looking for roles in:
 > **Applied ML Engineer • Research Engineer • Data Scientist (ML/NLP/CV)**
 
+- 🔬 **RA @ CeNEC Lab** — benchmarking LLMs and aligning RAG systems with human cognition
+- 🧑‍💻 **Ex-ML Engineer** — shipped 7+ CV/NLP projects (≥87% accuracy)
+- ☁️ **Cloud & Data** — AWS/GCP, SQL, Snowflake, Spark, JSON/XML, FastAPI
+- 🎯 Seeking **R&D, Applied ML, and Data Science** roles
+
 ---
 
 ## 🛠 Core Technical Stack
