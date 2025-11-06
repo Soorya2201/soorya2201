@@ -120,29 +120,6 @@ Combined **Black-Litterman** portfolio optimization with **NLP-based sentiment**
 
 ---
 
-## 📊 GitHub by the Numbers
-
-<img src="https://github-readme-stats.vercel.app/api?username=soorya-venkat&show_icons=true&theme=transparent" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soorya-venkat&layout=compact&theme=transparent" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=soorya-venkat&theme=transparent" height="165" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=soorya-venkat&column=4&margin-w=10&margin-h=10&theme=algolia" height="165" />
-
-
----
-
-## 🏆 Highlights & Certifications
-
-- 📜 **Adobe Analytics Challenge 2024 – GM Customer Journey Analysis**  
-- 🥇 Awards & certifications in **Data Analytics & Data Science**  
-- ✅ Multiple deployed projects with **87%+ accuracy** in real-world settings  
-
-🔗 [View All Certifications](https://inkedsin.wordpress.com/soorya-narayanan-v)
-
----
-
 ## 🤝 Let’s Build Something
 
 I’m driven by curiosity, obsessed with **debuggable ML**, and love collaborating with teams that enjoy shipping.
