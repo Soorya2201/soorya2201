@@ -122,17 +122,14 @@ Combined **Black-Litterman** portfolio optimization with **NLP-based sentiment**
 
 ## 📊 GitHub by the Numbers
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Soorya's GitHub stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=soorya-venkat&show_icons=true&theme=transparent" height="165" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soorya-venkat&layout=compact&theme=transparent" height="165" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<img src="https://streak-stats.demolab.com?user=soorya-venkat&theme=transparent" height="165" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=soorya-venkat&column=4&margin-w=10&margin-h=10&theme=algolia" height="165" />
+
 
 ---
 
