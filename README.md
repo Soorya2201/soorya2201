@@ -126,6 +126,6 @@ I’m driven by curiosity, obsessed with **debuggable ML**, and love collaborati
 
 - 📧 **Email:** [soorya220104@gmail.com](mailto:soorya220104@gmail.com)  
 - 🔗 **LinkedIn:** [Soorya Venkat](https://www.linkedin.com/in/soorya-venkat)  
-- 🐙 **GitHub:** [YOUR_GITHUB_USERNAME](https://github.com/soorya2201)
+- 🐙 **GitHub:** [Soorya2201](https://github.com/soorya2201)
 
 > ⚡ “Give me a hard problem and I’ll stay with it until we have a solution we’re proud to ship.”
