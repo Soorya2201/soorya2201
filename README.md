@@ -3,8 +3,8 @@
   <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/raw/main/assets/ai-banner.gif" alt="AI & Data Science Banner" width="100%" />
 </p>
 
-<h1 align="center"> Soorya Narayanan V ☀️</h1>
-<h3 align="center">AI & Data Science Enthusiast | Machine Learning • Computer Vision • Agents</h3>
+<h1 align="center"> Soorya Narayanan </h1>
+<h3 align="center">Machine Learning & Data Science Enthusiast | Machine Learning • Computer Vision • Agents</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/soorya-venkat"><img src="https://img.shields.io/badge/LinkedIn-Soorya%20Venkat-blue?style=for-the-badge&logo=linkedin" /></a>
