@@ -1,15 +1,11 @@
 # 
-
-<div align="center">
-
 <!-- Animated Banner - Replace with your own animated GIF or use this space -->
 <img src="https://raw.githubusercontent.com/Soorya2201/Soorya2201/main/assets/banner.gif" alt="AI Banner" width="100%" />
 
-# 🚀 SOORYA NARAYANAN
+### ML Architect • AI Systems Engineer • Research Enthusiast
 
-### ML Architect • AI Systems Engineer • Research Innovator
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&width=900&height=130&lines=Transforming+Research+into+Production;Multimodal+LLMs+%E2%80%A2+Computer+Vision+%E2%80%A2+MLOps;Where+Enthusiasm+Meets+Intelligent+Automation" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Transforming+Research+into+Production;Multimodal+LLMs+%E2%80%A2+Computer+Vision+%E2%80%A2+MLOps;Where+Cutting-Edge+Meets+Bulletproof+Engineering" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +19,7 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/7+-5865F2?style=for-the-badge" alt="7+"/>
+<img src="https://img.shields.io/badge/7+-5865F2?style=for-the-badge" alt="9+"/>
 <br/><b>Production ML Systems</b>
 </td>
 <td align="center" width="25%">
@@ -51,7 +47,7 @@
 class SooryaNarayanan:
     def __init__(self):
         self.location = "Los Angeles, CA 🌴"
-        self.education = "MS @ USC - Machine Learning & AI"
+        self.education = "MS @ USC - Applied Data Science - ML"
         self.current_role = "Research Assistant @ CeNEC Lab"
         self.expertise = [
             "Multimodal LLM Benchmarking & Alignment",
@@ -62,7 +58,7 @@ class SooryaNarayanan:
         
     def my_superpower(self):
         return """
-        Taking bleeding-edge research papers and transforming them into 
+        Taking state of the art research papers and transforming them into 
         robust, production-ready systems that handle real-world chaos.
         I don't just build models—I architect systems that are measurable,
         debuggable, and bulletproof from day one.
@@ -105,7 +101,7 @@ class SooryaNarayanan:
 ![RAG](https://img.shields.io/badge/RAG_Systems-FF4088?style=for-the-badge)
 ![VectorDB](https://img.shields.io/badge/Vector_DBs-6366F1?style=for-the-badge)
 
-### 📊 Data Science & ML Engineering
+### 📊 Data Science & ML Libararies
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
@@ -151,11 +147,11 @@ class SooryaNarayanan:
 
 ---
 
-## 🚀 FEATURED PROJECTS
+##  FEATURED PROJECTS
 
 <div align="center">
 
-### 🧬 Multimodal LLM Benchmarking & RAG Alignment
+###  Multimodal LLM Benchmarking & RAG Alignment
 **Research @ USC CeNEC Lab**
 
 </div>
@@ -201,22 +197,22 @@ class SooryaNarayanan:
 
 <div align="center">
 
-### 📊 Sentiment-Driven Portfolio Optimizer
+### Sentiment-Driven Portfolio Optimizer
 **FinTech ML Research**
 
 </div>
 
 ```
-💰 IMPACT: Dynamic portfolio optimization using NLP sentiment analysis
-🔄 REAL-TIME: Continuous ingestion of financial news & social media
-📈 METHOD: Black-Litterman optimization + FinBERT sentiment scoring
+ IMPACT: Dynamic portfolio optimization using NLP sentiment analysis
+ REAL-TIME: Continuous ingestion of financial news & social media
+ METHOD: Black-Litterman optimization + FinBERT sentiment scoring
 ```
 
 **Key Achievements:**
-- 🧠 Integrated FinBERT & NLTK for multi-source sentiment extraction
-- 📊 Built real-time data pipeline for news/social media ingestion
-- 💹 Dynamic asset allocation based on sentiment-adjusted expected returns
-- 📉 Interactive dashboard for risk/return visualization
+-  Integrated FinBERT & NLTK for multi-source sentiment extraction
+-  Built real-time data pipeline for news/social media ingestion
+-  Dynamic asset allocation based on sentiment-adjusted expected returns
+-  Interactive dashboard for risk/return visualization
 
 **Tech Stack:** `Python` `FinBERT` `NLTK` `Pandas` `Black-Litterman` `Tableau`
 
@@ -224,22 +220,22 @@ class SooryaNarayanan:
 
 <div align="center">
 
-### 🏥 Diabetic Retinopathy Detection
+###  Diabetic Retinopathy Detection
 **Published Research**
 
 </div>
 
 ```
-🔬 PUBLISHED: Novel CNN architecture for retinal image classification
-🎯 ACCURACY: 87%+ detection rate on clinical dataset
-🏥 IMPACT: Early detection system for preventing vision loss
+ PUBLISHED: Novel CNN architecture for retinal image classification
+ ACCURACY: 87%+ detection rate on clinical dataset
+ IMPACT: Early detection system for preventing vision loss
 ```
 
 **Tech Stack:** `TensorFlow` `CNNs` `Medical Imaging` `Image Processing`
 
 ---
 
-## 💼 EXPERIENCE
+## EXPERIENCE
 
 <table>
 <tr>
@@ -293,7 +289,7 @@ class SooryaNarayanan:
 
 ---
 
-## 📚 PUBLICATIONS & RESEARCH
+##  PUBLICATIONS & RESEARCH
 
 📄 **Diabetic Retinopathy Detection from Retinal Images**  
 Deep learning approach for early detection using CNNs and medical imaging  
@@ -305,7 +301,7 @@ Novel fine-tuning techniques for domain-specific sentiment classification
 
 ---
 
-## 📊 GITHUB STATS
+## GITHUB STATS
 
 <div align="center">
 
