@@ -1,4 +1,5 @@
 # 
+<div align="center">
 <!-- Animated Banner - Replace with your own animated GIF or use this space -->
 <img src="https://raw.githubusercontent.com/Soorya2201/Soorya2201/main/assets/banner.gif" alt="AI Banner" width="100%" />
 
