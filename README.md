@@ -87,9 +87,11 @@ class SooryaNarayanan:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-0077B6?style=for-the-badge)
+![Faiss](https://img.shields.io/badge/Faiss-00ADD8?style=for-the-badge)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
 ![CNNs](https://img.shields.io/badge/CNNs-FF6F61?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![GANs](https://img.shields.io/badge/GANs-9D4EDD?style=for-the-badge)
 
 ### 🗣️ NLP & Large Language Models
@@ -101,8 +103,16 @@ class SooryaNarayanan:
 ![Whisper](https://img.shields.io/badge/Whisper-25D366?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG_Systems-FF4088?style=for-the-badge)
 ![VectorDB](https://img.shields.io/badge/Vector_DBs-6366F1?style=for-the-badge)
+![Qwen](https://img.shields.io/badge/Qwen_3-FF6B35?style=for-the-badge)
+![Kimi](https://img.shields.io/badge/Kimi-7B68EE?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge)
+![Phi](https://img.shields.io/badge/Phi_4-6A5ACD?style=for-the-badge)
+![TinyLlama](https://img.shields.io/badge/TinyLlama-FF6347?style=for-the-badge)
+![RL](https://img.shields.io/badge/Reinforcement_Learning-00CED1?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge)
 
-### 📊 Data Science & ML Libararies
+### 📊 Data Science & ML Libraries
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
@@ -110,11 +120,18 @@ class SooryaNarayanan:
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB4034?style=for-the-badge)
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![KNN](https://img.shields.io/badge/KNN-FF6B9D?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![SMOTE](https://img.shields.io/badge/SMOTE-FF9800?style=for-the-badge)
+![MultiLabelBinarizer](https://img.shields.io/badge/MultiLabelBinarizer-4CAF50?style=for-the-badge)
+![Regression](https://img.shields.io/badge/Linear%20|%20Ridge%20|%20Lasso-9C27B0?style=for-the-badge)
+![Decision Trees](https://img.shields.io/badge/Decision_Trees-00BCD4?style=for-the-badge)
+![PCA](https://img.shields.io/badge/PCA-FF5722?style=for-the-badge)
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -128,18 +145,25 @@ class SooryaNarayanan:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
 
-### 📈 Analytics & Visualization
+### 📈 Analytics & Visualization Tools
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Adobe Analytics](https://img.shields.io/badge/Adobe_Analytics-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 🔧 APIs & Integration
+### 🔧 APIs & Databases
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🎯 Specializations
+`MLOps` • `Computer Vision` • `Time Series Analysis` • `FinTech ML` • `Model Optimization` • `Kalman Filters` • `Metric Learning`
+
+</div>
 
 ### 🎯 Specializations
 `MLOps` • `Computer Vision` • `Time Series Analysis` • `FinTech ML` • `Model Optimization` • `Kalman Filters` • `Metric Learning`
@@ -158,16 +182,16 @@ class SooryaNarayanan:
 </div>
 
 ```
-🎯 IMPACT: Built systematic evaluation framework for comparing LLMs with human cognition
-📊 SCOPE:  Gemini 1.5/2.0/2.5, GPT-4/5 against human baseline performance
-🔬 TECH:   RAG fine-tuning, statistical analysis, custom evaluation protocols
+IMPACT: Building systematic evaluation framework for comparing LLMs with human cognition
+SCOPE:  Gemini 1.5/2.0/2.5, GPT-4/5 against human baseline performance
+ECH:   RAG fine-tuning, statistical analysis, custom evaluation protocols
 ```
 
 **Key Achievements:**
-- 🏗️ Designed novel evaluation datasets for reasoning & perception tasks
-- 🤖 Implemented RAG-based alignment system for cognitive comparability  
-- 📈 Statistical validation across 4+ state-of-the-art models
-- 🎓 Contributing to cutting-edge research on AI-human alignment
+- Designed novel evaluation datasets for reasoning & perception tasks
+- Implemented RAG-based alignment system for cognitive comparability  
+- Satistical validation across 4+ state-of-the-art models
+- Contributing to cutting-edge research on AI-human alignment
 
 **Tech Stack:** `Python` `PyTorch` `Transformers` `Vector DBs` `RAG` `Statistical Modeling`
 
@@ -175,24 +199,23 @@ class SooryaNarayanan:
 
 <div align="center">
 
-### 👁️ Wild Face Recognition System
+### S.I.C.A.I.R.
 **ML Engineer @ Mirador Technologies**
 
 </div>
 
 ```
-⚡ IMPACT: Boosted real-time face detection accuracy from 42% → 93%
-🎯 SCALE:  Production-grade system handling real-world variability
-🏆 RESULT: +51% performance improvement, client-ready deployment
+IMPACT: SAR Image Colorization for Comprehensive Insight Retrieval, A framework that efficiently converts the grayscale image to coloured image by attaining the contextual awareness. 
+SCALE:  Rather than brute-forcing colour patterns onto the images, to be much more contextually aware of elements and to be computationally inexpensive.
+RESULT: +51% performance improvement, client-ready deployment
 ```
 
 **Key Achievements:**
-- 🔧 Re-architected end-to-end CV pipeline (detection → embedding → retrieval)
-- ⚡ Optimized model architecture for <100ms latency under real-world constraints
-- 📊 Implemented monitoring, A/B testing, and iterative improvement cycles
-- 🎯 Delivered measurable business impact with production-grade reliability
+- Re-architected end-to-end CV pipeline (detection → embedding → retrieval)
+- Optimized model architecture for <100ms latency under real-world constraints
+- Implemented monitoring, A/B testing, and iterative improvement cycles
 
-**Tech Stack:** `PyTorch` `OpenCV` `Metric Learning` `FastAPI` `Docker` `AWS`
+**Tech Stack:** `Segment Anything Model (SAM)` `Cyclic GAN` `Metric Learning`  `CUDA` `Gen AI` `Wisdom` 
 
 ---
 
@@ -221,18 +244,20 @@ class SooryaNarayanan:
 
 <div align="center">
 
-###  Diabetic Retinopathy Detection
-**Published Research**
+---
+
+
+## GITHUB STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Soorya2201&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=8892B0" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soorya2201&theme=tokyonight&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soorya2201&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=8892B0" alt="Top Languages" />
 
 </div>
-
-```
- PUBLISHED: Novel CNN architecture for retinal image classification
- ACCURACY: 87%+ detection rate on clinical dataset
- IMPACT: Early detection system for preventing vision loss
-```
-
-**Tech Stack:** `TensorFlow` `CNNs` `Medical Imaging` `Image Processing`
 
 ---
 
@@ -299,20 +324,6 @@ Deep learning approach for early detection using CNNs and medical imaging
 Novel fine-tuning techniques for domain-specific sentiment classification
 
 🔗 [View All Publications](https://inkedsin.wordpress.com/soorya-narayanan-v)
-
----
-
-## GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Soorya2201&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=8892B0" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soorya2201&theme=tokyonight&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soorya2201&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=8892B0" alt="Top Languages" />
-
-</div>
 
 ---
 
