@@ -267,7 +267,7 @@ RESULT: +51% performance improvement, client-ready deployment
 <tr>
 <td width="30%">
 <img src="https://img.shields.io/badge/Current-00D991?style=for-the-badge"/>
-<br/><b>2024 - Present</b>
+<br/><b>Present</b>
 </td>
 <td width="70%">
 <h3>🔬 Research Assistant</h3>
@@ -283,7 +283,7 @@ RESULT: +51% performance improvement, client-ready deployment
 <tr>
 <td width="30%">
 <img src="https://img.shields.io/badge/2023-FF6B6B?style=for-the-badge"/>
-<br/><b>2023</b>
+<br/><b>2025</b>
 </td>
 <td width="70%">
 <h3>🤖 Machine Learning Engineer</h3>
@@ -299,7 +299,7 @@ RESULT: +51% performance improvement, client-ready deployment
 <tr>
 <td width="30%">
 <img src="https://img.shields.io/badge/2022-5865F2?style=for-the-badge"/>
-<br/><b>2022 - 2023</b>
+<br/><b>2025 (Part Time)</b>
 </td>
 <td width="70%">
 <h3>🎓 AI Elective Instructor</h3>
