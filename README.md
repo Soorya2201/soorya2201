@@ -272,7 +272,6 @@ RESULT: +51% performance improvement, client-ready deployment
 <td width="70%">
 <h3>🔬 Research Assistant</h3>
 <b>CeNEC Lab, University of Southern California</b>
-<br/><br/>
 • Leading LLM benchmarking research comparing multimodal models with human cognition<br/>
 • Implementing RAG-based fine-tuning systems for AI-human alignment<br/>
 • Designing novel evaluation protocols for reasoning and perception tasks<br/>
@@ -282,8 +281,7 @@ RESULT: +51% performance improvement, client-ready deployment
 
 <tr>
 <td width="30%">
-<img src="https://img.shields.io/badge/2023-FF6B6B?style=for-the-badge"/>
-<br/><b>2025</b>
+<img src="https://img.shields.io/badge/2025-FF6B6B?style=for-the-badge"/>
 </td>
 <td width="70%">
 <h3>🤖 Machine Learning Engineer</h3>
@@ -296,21 +294,6 @@ RESULT: +51% performance improvement, client-ready deployment
 </td>
 </tr>
 
-<tr>
-<td width="30%">
-<img src="https://img.shields.io/badge/2022-5865F2?style=for-the-badge"/>
-<br/><b>2025 (Part Time)</b>
-</td>
-<td width="70%">
-<h3>🎓 AI Elective Instructor</h3>
-<b>Nest School</b>
-<br/><br/>
-• Designed and taught Python + AI curriculum for grades 6-9<br/>
-• Translated complex ML concepts into intuitive, age-appropriate lessons<br/>
-• Built hands-on projects covering supervised learning, CNNs, and NLP basics<br/>
-• Mentored students on data science fundamentals and problem-solving
-</td>
-</tr>
 </table>
 
 ---
