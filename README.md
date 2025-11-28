@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soorya-venkat)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soorya220104@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soorya2201)
-[![Publications](https://img.shields.io/badge/Publications-00D991?style=for-the-badge&logo=wordpress&logoColor=white)](https://inkedsin.wordpress.com/soorya-narayanan-v)
+[![Achievemenets](https://img.shields.io/badge/Publications-00D991?style=for-the-badge&logo=wordpress&logoColor=white)](https://inkedsin.wordpress.com/soorya-narayanan-v)
 
 <br/>
 
@@ -59,10 +59,10 @@ class SooryaNarayanan:
         
     def my_superpower(self):
         return """
-        Taking state of the art research papers and transforming them into 
-        robust, production-ready systems that handle real-world chaos.
-        I don't just build models—I architect systems that are measurable,
-        debuggable, and bulletproof from day one.
+        Machine Learning Model Selection, Large Language Models Fine tuning, RAG,
+        Vector Databases and Embeddings, Computer Vision.
+        
+        Will not rest until the product is completed. 
         """
     
     def seeking(self):
