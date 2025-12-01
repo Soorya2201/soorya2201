@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soorya-venkat)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soorya220104@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soorya2201)
-[![Achievemenets](https://img.shields.io/badge/Publications-00D991?style=for-the-badge&logo=wordpress&logoColor=white)](https://inkedsin.wordpress.com/soorya-narayanan-v)
+[![Achievemenets](https://img.shields.io/badge/Achievements-00D991?style=for-the-badge&logo=wordpress&logoColor=white)](https://inkedsin.wordpress.com/soorya-narayanan-v)
 
 <br/>
 
@@ -45,7 +45,7 @@
 ## ⚡ ABOUT ME
 
 ```python
-class SooryaNarayanan:
+class Soorya Narayanan:
     def __init__(self):
         self.location = "Los Angeles, CA 🌴"
         self.education = "MS @ USC - Applied Data Science - ML"
@@ -68,14 +68,6 @@ class SooryaNarayanan:
     def seeking(self):
         return ["Applied ML Engineer", "Research Engineer", "Data Scientist (ML/NLP/CV)"]
 ```
-
-<div align="center">
-
-**🎯 Currently pioneering research on LLM alignment with human cognition**  
-**🔬 Shipping production ML systems with 87%+ accuracy**  
-**☁️ Building scalable AI infrastructure on AWS/GCP**
-
-</div>
 
 ---
 
@@ -350,7 +342,7 @@ work_style:
 **📧 Email:** [soorya220104@gmail.com](mailto:soorya220104@gmail.com)  
 **💼 LinkedIn:** [Soorya Venkat](https://www.linkedin.com/in/soorya-venkat)  
 **🐙 GitHub:** [@Soorya2201](https://github.com/Soorya2201)  
-**📚 Publications:** [WordPress](https://inkedsin.wordpress.com/soorya-narayanan-v)
+**📚 Achievements:** [Blog](https://inkedsin.wordpress.com/soorya-narayanan-v)
 
 <br/>
 
