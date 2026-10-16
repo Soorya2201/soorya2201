@@ -29,7 +29,7 @@ I build ML systems end to end — from quantizing a model onto an NPU, to traini
 | **[Intelligent Bistro](https://github.com/Soorya2201/Intelligent-Bistro)** | Conversational food-ordering app — voice, text, or tap — with native Claude tool calling, SSE streaming, and 159 tests in CI. | TypeScript · React Native · Node |
 | **[ImmunyAI](https://github.com/Soorya2201/Immuny)** | Allergy tracker combining MedGemma (VLM), simulated wearable vitals monitoring, and a voice UI. | React · TypeScript · MedGemma |
 
-More: [Insurance policy Q&A on Cloudflare Workers](https://github.com/Soorya2201/Insurance-Policy-Intelligence-Engine) · [RNA-seq matching pipeline](https://github.com/Soorya2201/RNA-Sequencing-Pipeline) · [Spatial staging: a Blender you talk to](https://github.com/Soorya2201/gaussian-splats-to-3d-scenes)
+More: [Insurance policy Q&A on Cloudflare Workers](https://github.com/Soorya2201/Insurance-Policy-Intelligence-Engine) · [Immune repertoire profiling from RNA-seq](https://github.com/Soorya2201/RNA-Sequencing-Pipeline) · [Spatial staging: a Blender you talk to](https://github.com/Soorya2201/gaussian-splats-to-3d-scenes)
 
 ---
 
