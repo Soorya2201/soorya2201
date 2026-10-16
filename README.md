@@ -23,13 +23,13 @@ I build ML systems end to end — from quantizing a model onto an NPU, to traini
 | **[Snapdragon Edge Access Control](https://github.com/Soorya2201/qualcomm-insightface-npu)** | Quantized ArcFace face recognition compiled for the Snapdragon X Elite NPU — **1.71 ms/face, 188/188 layers on NPU** — driving an Arduino Uno Q access indicator. No camera frame leaves the device. | PyTorch · ONNX · QNN · Qualcomm AI Hub · Arduino |
 | **[RepoRaven](https://github.com/Soorya2201/RepoRaven)** | Agentic auditor that checks ML papers against their own code and cites the exact line that contradicts the paper. Found real data leakage in G-Mixup (ICML 2022). | Python · LLM agents |
 | **[School Facilities from Imagery](https://github.com/Soorya2201/school-facilities-cv)** | Measures school facilities from overhead imagery with a **calibrated confidence on every field**; open-weight models on SLURM, leave-one-school-out calibration, offline reproducible. | PyTorch · open-weight VLMs · SLURM |
-| **[nika_ai](https://github.com/Soorya2201/NIKA_2x_2M_model_built_from_scratch)** | From-scratch decoder-only transformer with a routed MoE MLP, hand-rolled ring all-reduce vs. real DDP, and a `torch.export` investigation of MoE graph breaks. 18 tests. | PyTorch · torch.distributed |
+| **[nika_ai](https://github.com/Soorya2201/nika-moe-transformer-from-scratch)** | From-scratch decoder-only transformer with a routed MoE MLP, hand-rolled ring all-reduce vs. real DDP, and a `torch.export` investigation of MoE graph breaks. 18 tests. | PyTorch · torch.distributed |
 | **[Tau-bench RLVR](https://github.com/Soorya2201/Tau_bench_RLVR_QWEN)** | GRPO fine-tuning of Qwen2.5-7B (4-bit + LoRA) on tau2-bench with rule-based verifiable rewards for structured tool calls. | TRL · PEFT · bitsandbytes |
 | **[RL Autonomous Driving](https://github.com/Soorya2201/RL-Autonomous-Driving)** | PPO agent that learns to drive a custom ray-cast simulator; documents every reward-shaping iteration, including the ones that failed. | Stable-Baselines3 · PyGame |
 | **[Intelligent Bistro](https://github.com/Soorya2201/Intelligent-Bistro)** | Conversational food-ordering app — voice, text, or tap — with native Claude tool calling, SSE streaming, and 159 tests in CI. | TypeScript · React Native · Node |
 | **[ImmunyAI](https://github.com/Soorya2201/Immuny)** | Allergy tracker combining MedGemma (VLM), simulated wearable vitals monitoring, and a voice UI. | React · TypeScript · MedGemma |
 
-More: [Insurance Policy RAG on Cloudflare Workers](https://github.com/Soorya2201/Insurance-Policy-Intelligence-Engine) · [RNA-seq matching pipeline](https://github.com/Soorya2201/RNA-Sequencing-Pipeline) · [Spatial staging: a Blender you talk to](https://github.com/Soorya2201/Guassian_splats_to_3d_objects-)
+More: [Insurance policy Q&A on Cloudflare Workers](https://github.com/Soorya2201/Insurance-Policy-Intelligence-Engine) · [RNA-seq matching pipeline](https://github.com/Soorya2201/RNA-Sequencing-Pipeline) · [Spatial staging: a Blender you talk to](https://github.com/Soorya2201/gaussian-splats-to-3d-scenes)
 
 ---
 
